@@ -1,0 +1,31 @@
+#title-font {
+    color: rgb(37, 37, 37);
+    font-family: sans-serif;
+    font-size: 24pt;
+    font-weight: 800;
+    line-height: 1.75em;
+}
+
+#date-font {
+    color: #a2a2a2;
+    font-family: "Source Sans Pro", Helvetica, sans-serif;
+    font-size: 10pt;
+    font-weight: 550;
+    line-height: 1.75em;
+}
+
+#base-font {
+    color: rgb(65, 65, 65);
+    font-family: sans-serif;
+    font-size: 12pt;
+    font-weight: 500;
+    line-height: 1.75em;
+ }
+
+ #math-font {
+    color: black;
+    font-family: Helvetica;
+    font-size: 12pt;
+    font-weight: 500;
+    line-height: 1.75em;
+ }
