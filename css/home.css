@@ -39,7 +39,8 @@ article p {
 } 
 
 main { 
-    flex: 2; 
+    flex: 2;
+    background-color: #ffffff; 
 } 
 
 article { 
